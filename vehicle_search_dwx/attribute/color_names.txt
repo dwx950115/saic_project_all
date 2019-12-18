@@ -1,0 +1,5 @@
+black 0
+blue 1
+gray 2
+white 3
+sliver 4
