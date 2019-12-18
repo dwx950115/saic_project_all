@@ -2,7 +2,7 @@
 
 ## image_generation
 
-* image generation randomly and directly.
+* image generation randomly and directly.</br>
 ![](./image_generation/output/output.png)
 
 ## RepNet_dataset
